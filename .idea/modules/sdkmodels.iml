@@ -17,19 +17,18 @@
       <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/resource_managed/main" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/resource_managed/test" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../app" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.1.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scalastuff:scalabeans:0.3:jar" level="project" />
     <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.12.1:jar" level="project" />
     <orderEntry type="library" name="SBT: joda-time:joda-time:2.9.9:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-annotations:2.1.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-core:2.1.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-databind:2.1.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.fasterxml.jackson.module:jackson-module-scala:2.1.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.google.guava:guava:r09:jar" level="project" />
     <orderEntry type="library" name="SBT: com.thoughtworks.paranamer:paranamer:2.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scalastuff:scalabeans:0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.guava:guava:r09:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.module:jackson-module-scala:2.1.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-databind:2.1.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.fasterxml.jackson.core:jackson-core:2.1.0:jar" level="project" />
   </component>
 </module>
